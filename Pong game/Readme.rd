@@ -1,0 +1,1 @@
+In this project I have tried to develop a Pong game which we used to play in early 90s using Pygame library of Python.
